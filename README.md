@@ -1,6 +1,6 @@
 ## Hi there 👋
 Currently styding on Northen Arctic Federal University ✨
-High school of Information technologies and automated systens ⚡
+High School of Information Technologies and Automated Systens ⚡
 
 <!--
 **object5/object5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
